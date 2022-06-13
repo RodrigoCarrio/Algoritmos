@@ -63,5 +63,5 @@ def imprimir_diccionario2(nombre,diccionario):
     print(f"--key\tValor--")
     for i,j in diccionario.items():
         print(f" {i}\t{j}")
-añadir_datos()
+#añadir_datos()
 añadir_datos2()
